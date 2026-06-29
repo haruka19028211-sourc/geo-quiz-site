@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://haruka19028211-sourc.github.io/geo-quiz-site/sitemap.xml
